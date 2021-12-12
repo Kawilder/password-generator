@@ -1,6 +1,6 @@
 // Assignment code here
 
-//Random generators
+//Random generators functions
 function getRandomLower() {
   return String.fromCharCode(Math.floor(Math.random() * 26) + 97);
 }
